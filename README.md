@@ -1,6 +1,6 @@
 - 👋 Opa, me chamo Henrique!
 - 👀 Tenho interesse em Desenvolvimento Mobile e Web
-- 🌱 Atualmente estou estudando Javascript e noções do Paradigma Funcional
+- 🌱 Atualmente estou estudando Kotlin, Javascript e noções do Paradigma Funcional
 - 📫 Contate-me pelo e-mail henriquenetwork03@gmail.com
 <br><br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza76&layout=compact&theme=dark)](https://github.com/henrique-souza76/github-readme-stats)
