@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou estudando Laravel e VueJs
 - 📫 Contate-me pelo e-mail henriquenetwork03@gmail.com
 <br><br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza76&layout=compact&theme=dark)](https://github.com/henrique-souza76/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza76&theme=dark&hide=javascript,html,css&layout=pie)](https://github.com/henrique-souza76/github-readme-stats)
 <br><br>
 <hr>
 
