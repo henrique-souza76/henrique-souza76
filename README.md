@@ -7,7 +7,7 @@
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/henrique-souza76/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza76&theme=dark&hide=javascript,html,css&layout=pie" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza76&theme=dark&layout=pie" />
   </a>
 </div>
 
